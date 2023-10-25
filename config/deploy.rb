@@ -1,8 +1,8 @@
 # config valid for current version and patch releases of Capistrano
 lock "~> 3.18.0"
 
-set :application, "myapp"
-set :repo_url, "git@github.com:alexohre/myapp.git"
+set :application, "myapp2"
+set :repo_url, "git@github.com:alexohre/myapp2.git"
 set :branch, "main"
 
 # Default branch is :master
